@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I'm a third year computer science student at The U
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZBTH16&layout=compact&theme=aura" alt="LZBTH16's Most Used Languages" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api?username=LZBTH16&show_icons=true&theme=aura" alt="LZBTH16's GitHub Stats" width="46%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LZBTH16&theme=aura" alt="LZBTH16's Streak Stats" width="50%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LZBTH16&theme=aura" alt="LZBTH16's Profile Summary" width="70%" />
-</p>
+</p> -->
 
 ## 🏆 Top Repositories
 
