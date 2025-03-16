@@ -39,10 +39,10 @@ Welcome to my GitHub profile! I'm a third year computer science student at The U
 
 <p align="center">
   <a href="https://github.com/LZBTH16/sim-ester">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=repository1&theme=aura" alt="sim-ester" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=sim-ester&theme=aura" alt="sim-ester" />
   </a>
   <a href="https://github.com/LZBTH16/ThirdPersonPlatformer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=repository2&theme=aura" alt="Third Person Platformer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=ThirdPersonPlatformer&theme=aura" alt="Third Person Platformer" />
   </a>
 </p>
 
