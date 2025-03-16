@@ -15,13 +15,6 @@ Welcome to my GitHub profile! I'm a third year computer science student at The U
 - **Databases:** MySQL, PostgreSQL, MS SQL Server
 - **Tools:** Git, Docker, VS Code
 
-## 🌱 Currently Learning
-
-- Network Systems
-- Game Development
-- Software Engineering
-- Computer Graphics
-
 ## 📈 GitHub Stats
 
 <p align="center">
