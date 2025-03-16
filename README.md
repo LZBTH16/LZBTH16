@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm LZBTH16! </h1>
 
-<!--
-**LZBTH16/LZBTH16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a third year computer science student at The University of British Columbia. Here's a little about me and what I do:
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Liz
+- **Interests:** Cybersecurity, Software Development, Web Development, Game Development
+- **Hobbies:** Coding, Reading, Gaming, Piano, Ukrainian Dance
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, JavaScript, Java, C#
+- **Frameworks & Libraries:** React, Node.js, Express.js
+- **Databases:** MySQL, PostgreSQL, MS SQL Server
+- **Tools:** Git, Docker, VS Code
+
+## 🌱 Currently Learning
+
+- Network Systems
+- Game Development
+- Software Engineering
+- Computer Graphics
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZBTH16&layout=compact&theme=aura" alt="LZBTH16's Most Used Languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LZBTH16&show_icons=true&theme=aura" alt="LZBTH16's GitHub Stats" width="46%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LZBTH16&theme=aura" alt="LZBTH16's Streak Stats" width="50%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LZBTH16&theme=aura" alt="LZBTH16's Profile Summary" width="70%" />
+</p>
+
+## 🏆 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/LZBTH16/sim-ester">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=repository1&theme=aura" alt="sim-ester" />
+  </a>
+  <a href="https://github.com/LZBTH16/ThirdPersonPlatformer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=repository2&theme=aura" alt="Third Person Platformer" />
+  </a>
+</p>
+
+<hr>
+<p align=center>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!</p>
