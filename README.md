@@ -37,6 +37,9 @@ Welcome to my GitHub profile! I'm a third year computer science student at The U
   <a href="https://github.com/LZBTH16/ThirdPersonPlatformer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LZBTH16&repo=ThirdPersonPlatformer&theme=aura" alt="Third Person Platformer" />
   </a>
+  <a href="[https://github.com/LZBTH16/ThirdPersonPlatformer](https://github.com/KianShirvani/Collabium---Task-Management-Platform)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianShirvani&repo=Collabium---Task-Management-Platform&theme=aura" alt="Collabium - Task Management Platform" />
+  </a>
   <a href="https://github.com/Zubdragon047/cosc416project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zubdragon047&repo=cosc416project&theme=aura" alt="COSC 416 Final Project" />
   </a>
